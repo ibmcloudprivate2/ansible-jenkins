@@ -26,3 +26,5 @@ docker build . -t ansible-jenkins:0.1
 # Reference
 
 - [jenkins blue ocean](https://hub.docker.com/r/jenkinsci/blueocean) image
+- [AWX project](https://github.com/ansible/awx)
+- Tower [documentation](https://docs.ansible.com/ansible-tower/index.html)
