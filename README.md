@@ -1,6 +1,6 @@
 # Ansible with Jenkins
 
-# Use it
+## Use it
 
 ```
 docker pull jaricsng/ansible-jenkins:0.1
